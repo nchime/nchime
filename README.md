@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Nomad%20Developer&fontSize=90)
 
-
 <!--
 **nchime/nchime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
