@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Nomad%20Developer&fontSize=90)
 
-<h1 align="center">Hi 👋, I'm ChaeHwa Kwak</h1>
-<h3 align="center">A passionate frontend/backend developer from South Korea</h3>
+<h1 align="left">Hi 👋, I'm ChaeHwa Kwak</h1>
+<h3 align="left">A passionate frontend/backend developer from South Korea</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
