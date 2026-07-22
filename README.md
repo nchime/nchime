@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Nomad%20Developer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=100&section=header&text=Nomad%20Developer&fontSize=90)
 
 <h1 align="left">Hi 👋, I'm ChaeHwa Kwak</h1>
 <h3 align="left">A passionate frontend/backend developer from South Korea</h3>
@@ -14,12 +14,6 @@
 
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nchime&" alt="nchime" /></p>
 
-
-## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nchime)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nchime)](https://github.com/anuraghazra/github-readme-stats)
-  
 
 <!--
 **nchime/nchime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
