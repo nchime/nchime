@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/nchime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nchime" height="30" width="40" /></a>
 <a href="https://fb.com/neochime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nchime" height="30" width="40" /></a>
-  <a href="https://nchime.github.io/" target="blank"><img align="center" src="https://nchime.github.io/static/images/nchime_avatar.jpg" alt="nchime" height="30" width="40" /></a>
+  <a href="https://nchime.github.io/" target="blank"><img align="center" src="https://nchime.github.io/static/images/nchime_avatar.jpg" alt="nchime" height="40" width="40" /></a>
 
 </p>
 
