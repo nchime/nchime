@@ -2,12 +2,27 @@
 
 <h1 align="left">Hi 👋, I'm ChaeHwa Kwak</h1>
 <h4 align="left">
-  I'm a passionate frontend/backend developer from South Korea
+  <!-- I'm a passionate frontend/backend developer from South Korea -->
+
+27+ Years of Full-Stack Mastery | AI-Driven Developer Shaping the Future of Tech <br> 
+A veteran full-stack developer who embraces continuous evolution. By blending nearly three decades of core software engineering experience with today's advanced AI workflows, I build scalable, intelligent systems. <br>
+I don't just follow new trends—I engineer them using AI-powered development to deliver smarter code and faster results.
+ 
 <a href="https://github.com/nchime">
     <img align="right" src="https://komarev.com/ghpvc/?username=nchime&style=for-the-badge">
 </a>
 </h4>
 <br/>
+
+
+<!-- <h1 align="left">Hi 👋, I'm ChaeHwa Kwak</h1>
+<h4 align="left">
+  I'm a passionate frontend/backend developer from South Korea
+<a href="https://github.com/nchime">
+    <img align="right" src="https://komarev.com/ghpvc/?username=nchime&style=for-the-badge">
+</a>
+</h4>
+<br/> -->
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="center">
