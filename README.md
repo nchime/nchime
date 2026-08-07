@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=100&section=header&text=Nomad%20Developer&fontSize=90)
 
-<h1 align="left">Hi 👋, I'm ChaeHwa Kwak</h1>
+<h1 align="left">Hi 👋, I'm ChaeHwa Kwak
+<a href="https://github.com/nchime">
+    <img align="right" src="https://komarev.com/ghpvc/?username=nchime&style=for-the-badge">
+</a>
+</h1>
 <h4 align="left">
   <!-- I'm a passionate frontend/backend developer from South Korea -->
 
@@ -8,9 +12,7 @@
 A veteran full-stack developer who embraces continuous evolution. By blending nearly three decades of core software engineering experience with today's advanced AI workflows, I build scalable, intelligent systems. <br>
 I don't just follow new trends—I engineer them using AI-powered development to deliver smarter code and faster results.
  
-<a href="https://github.com/nchime">
-    <img align="right" src="https://komarev.com/ghpvc/?username=nchime&style=for-the-badge">
-</a>
+
 </h4>
 <br/>
 
