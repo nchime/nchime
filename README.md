@@ -1,62 +1,94 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=100&section=header&text=Nomad%20Developer&fontSize=90)
-
-<h1 align="left">Hi 👋, I'm ChaeHwa Kwak
-<a href="https://github.com/nchime">
-    <img align="right" src="https://komarev.com/ghpvc/?username=nchime&style=for-the-badge">
-</a>
-</h1>
-<h4 align="left">
-  <!-- I'm a passionate frontend/backend developer from South Korea -->
-
-27+ Years of Full-Stack Mastery | AI-Driven Developer Shaping the Future of Tech <br> 
-A veteran full-stack developer who embraces continuous evolution. By blending nearly three decades of core software engineering experience with today's advanced AI workflows, I build scalable, intelligent systems. <br>
-I don't just follow new trends—I engineer them using AI-powered development to deliver smarter code and faster results.
- 
-
-</h4>
-<br/>
-
-
-<!-- <h1 align="left">Hi 👋, I'm ChaeHwa Kwak</h1>
-<h4 align="left">
-  I'm a passionate frontend/backend developer from South Korea
-<a href="https://github.com/nchime">
-    <img align="right" src="https://komarev.com/ghpvc/?username=nchime&style=for-the-badge">
-</a>
-</h4>
-<br/> -->
-
-<!-- <h3 align="left">Connect with me:</h3> -->
-<p align="center">
-  <a href="https://linkedin.com/in/nchime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nchime" height="30" width="40" /></a>
-  <a href="https://fb.com/neochime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nchime" height="30" width="40" /></a>
-  <a href="https://nchime.github.io/" target="blank"><img align="center" src="https://nchime.github.io/static/images/nchime_avatar.jpg" alt="nchime" height="40" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=1e293b,334155,475569&height=150&section=header&text=Nomad%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Nomad Developer" width="100%" />
+</div>
 
 <br/>
 
-<!-- <h3 align="left">Languages and Tools:</h3> -->
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<div align="center">
+  <h1>Hi 👋, I'm ChaeHwa Kwak</h1>
+  <h3>27+ Years of Full-Stack Mastery | AI-Driven Developer Shaping the Future of Tech</h3>
+  <p>
+    A veteran full-stack developer from South Korea who embraces continuous evolution.<br/>
+    By blending nearly three decades of core software engineering experience with today's advanced AI workflows, I build scalable, intelligent systems.<br/>
+    I don't just follow new trends—I engineer them using AI-powered development to deliver smarter code and faster results.
+  </p>
+  <br/>
+  <a href="https://github.com/nchime">
+    <img src="https://komarev.com/ghpvc/?username=nchime&style=for-the-badge&color=334155" alt="Profile Views" />
+  </a>
+</div>
 
 <br/>
+<br/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nchime&" alt="nchime" /></p>
-<p align="center">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nchime&langs_count=3" alt="nchime" /> 
-  <img align="center" src="https://github-stats-extended.vercel.app/api?username=nchime" alt="nchime" />
-</p>
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+  <br/>
+  <p>
+    <!-- Frontend -->
+    <img src="https://img.shields.io/badge/HTML5-334155?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/JavaScript-334155?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-334155?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-334155?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/Vue.js-334155?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  </p>
+  <p>
+    <!-- Backend -->
+    <img src="https://img.shields.io/badge/Node.js-334155?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express-334155?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+    <img src="https://img.shields.io/badge/Java-334155?style=for-the-badge&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Spring-334155?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  </p>
+  <p>
+    <!-- Cloud & DevOps -->
+    <img src="https://img.shields.io/badge/AWS-334155?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Docker-334155?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-334155?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Git-334155?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </p>
+  <p>
+    <!-- Database -->
+    <img src="https://img.shields.io/badge/PostgreSQL-334155?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </p>
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+  <br/>
+  <p>
+    <img src="https://github-stats-extended.vercel.app/api?username=nchime&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nchime&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nchime&langs_count=3&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  </p>
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <h2>🌐 Connect With Me</h2>
+  <br/>
+  <img src="https://nchime.github.io/static/images/nchime_avatar.jpg" alt="ChaeHwa Kwak" width="100" />
+  <br/><br/>
+  <a href="https://linkedin.com/in/nchime">
+    <img src="https://img.shields.io/badge/LinkedIn-nchime-334155?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/neochime">
+    <img src="https://img.shields.io/badge/Facebook-neochime-334155?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://nchime.github.io/">
+    <img src="https://img.shields.io/badge/Website-nchime.github.io-334155?style=for-the-badge&logoColor=white" alt="Website" />
+  </a>
+</div>
+
+<br/>
+<br/>
 
 <!--
 **nchime/nchime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
