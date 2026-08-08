@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=1e293b,334155,475569&height=100&section=header&text=Nomad%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Nomad Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=100&section=header&text=Nomad%20Developer&fontSize=90" alt="Nomad Developer" width="100%" />
 </div>
 
 <br/>
