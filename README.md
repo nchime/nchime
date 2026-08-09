@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=100&section=header&text=Nomad%20Developer&fontSize=90" alt="Nomad Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=1e293b,334155,475569&height=150&section=header&text=Nomad%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Nomad Developer" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h1>Hi 👋, I'm ChaeHwa Kwak</h1>
+  <h1>Hi, I'm ChaeHwa Kwak</h1>
   <h3>27+ Years of Full-Stack Mastery | AI-Driven Developer Shaping the Future of Tech</h3>
   <p>
     A veteran full-stack developer from South Korea who embraces continuous evolution.<br/>
@@ -22,7 +22,7 @@
 <br/>
 
 <div align="center">
-  <h2>🛠️ Tech Stack</h2>
+  <h2>── Tech Stack ──</h2>
   <br/>
   <p>
     <!-- Frontend -->
@@ -56,7 +56,7 @@
 <br/>
 
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
+  <h2>── GitHub Analytics ──</h2>
   <br/>
   <p>
     <img src="https://github-stats-extended.vercel.app/api?username=nchime&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
@@ -71,7 +71,7 @@
 <br/>
 
 <div align="center">
-  <h2>🌐 Connect With Me</h2>
+  <h2>── Connect With Me ──</h2>
   <br/>
   <img src="https://nchime.github.io/static/images/nchime_avatar.jpg" alt="ChaeHwa Kwak" width="100" />
   <br/><br/>
@@ -90,5 +90,5 @@
 <br/>
 
 <!--
-**nchime/nchime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nchime/nchime** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 -->
