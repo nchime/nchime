@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=1e293b,334155,475569&height=150&section=header&text=Nomad%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Nomad Developer" width="100%" />
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=100&section=header&text=Nomad%20Developer&fontSize=90)
 </div>
 
 <br/>
